@@ -36,7 +36,7 @@ Our mission is to empower industrial upgrading through AI, improve operational e
 
 ## Vision
 
-> To build a future-oriented AI innovation engine for intelligent vehicles, smart mobility, and the next-generation automotive industry ecosystem.
+To build a future-oriented AI innovation engine for intelligent vehicles, smart mobility, and the next-generation automotive industry ecosystem.
 
 ---
 
