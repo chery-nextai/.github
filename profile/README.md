@@ -116,10 +116,3 @@ We are seeking collaboration across the following areas, while remaining open to
 Chery Group is a global automotive enterprise committed to technological innovation and high-quality development. Through continuous investment in AI and intelligent technologies, Chery is accelerating the evolution of intelligent vehicles, smart mobility, and future industrial ecosystems.
 
 ---
-
-<div align="center">
-  <p>
-    <strong>Chery NextAI Research Institute</strong><br />
-    Building AI capabilities for the future automotive industry.
-  </p>
-</div>
