@@ -25,8 +25,9 @@
 ---
 
 ## About
+**[Chery Group](https://www.cheryinternational.com/)** is a global automotive enterprise committed to technological innovation and high-quality development. Through continuous investment in AI and intelligent technologies, Chery is accelerating the evolution of intelligent vehicles, smart mobility, and future industrial ecosystems.
 
-**Chery NextAI Research Institute** is the AI technology innovation and R&D hub of **[Chery Group](https://www.cheryinternational.com/)**, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
+**Chery NextAI Research Institute** is the AI technology innovation and R&D hub of Chery Group, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
 
 Leveraging Chery’s extensive industrial scenarios and massive data resources accumulated across automotive R&D, manufacturing, supply chain, and user services, the institute focuses on building an intelligent technology foundation for the automotive industry.
 
@@ -108,11 +109,5 @@ We are seeking collaboration across the following areas, while remaining open to
 - Autonomous driving, simulation, and world models
 - AI infrastructure, evaluation, and trustworthy AI
 - Other frontier AI technologies and industry-driven innovation scenarios
-
----
-
-## About Chery Group
-
-Chery Group is a global automotive enterprise committed to technological innovation and high-quality development. Through continuous investment in AI and intelligent technologies, Chery is accelerating the evolution of intelligent vehicles, smart mobility, and future industrial ecosystems.
 
 ---
