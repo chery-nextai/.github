@@ -26,7 +26,7 @@
 
 ## About
 
-**Chery NextAI Research Institute** is the AI technology innovation and R&D hub of **Chery Group**, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
+**Chery NextAI Research Institute** is the AI technology innovation and R&D hub of **[Chery Group](https://www.cheryinternational.com/)**, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
 
 Leveraging Chery’s extensive industrial scenarios and massive data resources accumulated across automotive R&D, manufacturing, supply chain, and user services, the institute focuses on building an intelligent technology foundation for the automotive industry.
 
