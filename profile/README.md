@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./assets/nextai-logo.svg" alt="Chery NextAI Research Institute" width="860" />
+  <img src="./assets/NEXTAI-logo.svg" alt="Chery NEXTAI Research Institute" width="860" />
 
   <br />
   <br />
 
-  <h1>Chery NextAI Research Institute</h1>
+  <h1>Chery NEXTAI Research Institute</h1>
 
   <p>
     <strong>AI Technology Innovation and R&amp;D Hub of Chery Group</strong>
@@ -27,7 +27,7 @@
 ## About
 **[Chery Group](https://www.cheryinternational.com/)** is a global automotive enterprise committed to technological innovation and high-quality development. Through continuous investment in AI and intelligent technologies, Chery is accelerating the evolution of intelligent vehicles, smart mobility, and future industrial ecosystems.
 
-**Chery NextAI Research Institute** is the AI technology innovation and R&D hub of Chery Group, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
+**Chery NEXTAI Research Institute** is the AI technology innovation and R&D hub of Chery Group, dedicated to driving the deep integration of artificial intelligence technologies with the automotive industry.
 
 Leveraging Chery’s extensive industrial scenarios and massive data resources accumulated across automotive R&D, manufacturing, supply chain, and user services, the institute focuses on building an intelligent technology foundation for the automotive industry.
 
@@ -43,7 +43,7 @@ To build a future-oriented AI innovation engine for intelligent vehicles, smart 
 
 ## Research Directions
 
-Chery NextAI Research Institute focuses on core AI technologies that can generate long-term industrial value.
+Chery NEXTAI Research Institute focuses on core AI technologies that can generate long-term industrial value.
 
 | Direction | Focus |
 |---|---|
@@ -80,7 +80,7 @@ The institute conducts research on industry model training, AI agent system deve
 
 ## Technology Foundation
 
-Chery NextAI Research Institute builds an end-to-end AI technology system for the automotive industry:
+Chery NEXTAI Research Institute builds an end-to-end AI technology system for the automotive industry:
 
 ```text
 Industrial Data & Knowledge
@@ -98,7 +98,7 @@ This system connects data, models, agents, and applications to accelerate the tr
 
 ## Open Collaboration
 
-NextAI Research Institute actively promotes collaborative innovation among industry, academia, and research institutions. We aim to build an open AI innovation platform that connects frontier AI research with real-world automotive scenarios.
+NEXTAI Research Institute actively promotes collaborative innovation among industry, academia, and research institutions. We aim to build an open AI innovation platform that connects frontier AI research with real-world automotive scenarios.
 
 We are seeking collaboration across the following areas, while remaining open to broader opportunities beyond these directions:
 
