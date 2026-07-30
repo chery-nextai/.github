@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/NEXTAI-logo.svg" alt="Chery NEXTAI Research Institute" width="860" />
+  <img src="./assets/nextai-logo.svg" alt="Chery NEXTAI Research Institute" width="860" />
 
   <br />
   <br />
